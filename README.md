@@ -14,25 +14,34 @@ This project analyzes personal finance transaction data using SQL to uncover spe
 
 ## Business Questions Answered
 1. What is the total income vs total expenses?
-![Query 1](1)%20Total%20Income%20vs%20Total%20Expenses.png)
+![Query 1](query1.png)
+
 2. Which categories have the highest spending?
-![Query 2](2)%20Highest%20Spending%2010%20Category.png)
+![Query 2](query2.png)
+
 3. Which month had the highest spending?
-![Query 3](3)%20Month%20with%20the%20Highest%20Spending.png)
+![Query 3](query3.png)
+
 4. What is the average monthly savings?
-![Query 4](4)%20Average%20Monthly%20Saving.png)
+![Query 4](query4.png)
+
 5. Which months did expenses exceed income?
-![Query 5](5)%20Month%20When%20Expenses%20Exceeded%20Income.png)
+![Query 5](query5.png)
+
 6. What are the top 5 largest single transactions?
-![Query 6](6)%20Top%205%20Largest%20Single%20Transaction.png)
+![Query 6](query6.png)
+
 7. What percentage of spending does each category represent?
-![Query 7](7)%20Spending%20%25%20By%20Category.png)
+![Query 7](query7.png)
+
 8. What is the monthly spending trend over time?
-![Query 8](8)%20Monthly%20Spending%20Trends.png)
+![Query 8](query8.png)
+
 9. How does spending vary by category month-over-month?
-![Query 9](9)%20Category%20Spending%20Month-Over-Month.png)
+![Query 9](query9.png)
+
 10. What does the full monthly financial summary look like?
-![Query 10](10)%20Full%20Monthly%20Summary.png)
+![Query 10](query10.png)
     
 ## Key Findings
 - Total income across all transactions was $124,269.76 vs total expenses of $96,083.78,
